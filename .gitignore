@@ -1,0 +1,20 @@
+# Mac OS
+.DS_Store
+
+# PNPM
+/node_modules
+npm-*
+*-debug*
+
+# Testing
+/.nyc_output
+/coverage
+
+# Build
+/build
+/dist
+/.opt-in
+
+# Generated translation files
+/translations
+/locale
